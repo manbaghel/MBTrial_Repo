@@ -154,16 +154,6 @@
     <enableSharing>true</enableSharing>
     <enableStreamingApi>true</enableStreamingApi>
     <externalSharingModel>Private</externalSharingModel>
-    <fields>
-        <fullName>Test_Mail_ID__c</fullName>
-        <description>Test mail ID created for trail object.</description>
-        <externalId>false</externalId>
-        <label>Test  Mail ID</label>
-        <required>false</required>
-        <trackTrending>false</trackTrending>
-        <type>Email</type>
-        <unique>false</unique>
-    </fields>
     <label>Trial Object</label>
     <nameField>
         <label>Trial Object Name</label>
