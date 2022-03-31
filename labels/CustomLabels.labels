@@ -5,20 +5,20 @@
         <language>en_US</language>
         <protected>false</protected>
         <shortDescription>POC_Variable1</shortDescription>
-        <value>{!Environment.POC_Variable1}</value>
+        <value>mbaghel-egcf@force.com.QA</value>
     </labels>
     <labels>
         <fullName>POC_Variable4</fullName>
         <language>en_US</language>
         <protected>false</protected>
         <shortDescription>POC_Variable4</shortDescription>
-        <value>{!Environment.POC_Variable4}</value>
+        <value>mbaghel-egcf@force.com.mbdq</value>
     </labels>
     <labels>
         <fullName>Username</fullName>
         <language>en_US</language>
         <protected>false</protected>
         <shortDescription>Username</shortDescription>
-        <value>{!Environment.Username}</value>
+        <value>mbaghel-egcf@force.com.mbqa</value>
     </labels>
 </CustomLabels>
