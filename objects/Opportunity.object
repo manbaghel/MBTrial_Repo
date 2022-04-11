@@ -290,6 +290,15 @@
         <trackTrending>false</trackTrending>
     </fields>
     <fields>
+        <fullName>Project_Checkbox__c</fullName>
+        <defaultValue>false</defaultValue>
+        <externalId>false</externalId>
+        <label>Project Checkbox</label>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackTrending>false</trackTrending>
+        <type>Checkbox</type>
+    </fields>
+    <fields>
         <fullName>ROI_Analysis_Completed__c</fullName>
         <defaultValue>false</defaultValue>
         <externalId>false</externalId>
