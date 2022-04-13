@@ -15464,10 +15464,6 @@
     </userPermissions>
     <userPermissions>
         <enabled>true</enabled>
-        <name>EditBillingInfo</name>
-    </userPermissions>
-    <userPermissions>
-        <enabled>true</enabled>
         <name>EditBrandTemplates</name>
     </userPermissions>
     <userPermissions>
@@ -15981,6 +15977,10 @@
     <userPermissions>
         <enabled>true</enabled>
         <name>ViewDataCategories</name>
+    </userPermissions>
+    <userPermissions>
+        <enabled>true</enabled>
+        <name>ViewDeveloperName</name>
     </userPermissions>
     <userPermissions>
         <enabled>true</enabled>
